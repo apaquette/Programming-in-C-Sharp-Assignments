@@ -1,0 +1,69 @@
+@page
+@model MyGames.Pages.Publishers.DetailsModel
+
+@{
+    ViewData["Title"] = "Publisher Details";
+}
+
+<div class="container">
+    <div class="row align-items-start">
+        <div class = "col-5">
+                <h2>@Model.Publisher.Name Details</h2>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Publisher.Name)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Publisher.Name)
+                    </dd>
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Publisher.Country)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Publisher.Country)
+                    </dd>
+                    <dt class="col-sm-3">
+                        Founding Year
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Publisher.FoundingYear)
+                    </dd>
+                </dl>
+                <div>
+                    <a asp-page="./Edit" asp-route-id="@Model.Publisher.PublisherId">Edit</a> |
+                    <a asp-page="./Index">Back to List</a>
+                </div>
+            </div>
+            <div class="col-7">
+                <h2>Games</h2>
+                <hr />
+            <table id="Games" class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Release Date</th>
+                        <th>Hours Played</th>
+                        <th>Favorite</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var g in Model.Publisher.Games.OrderBy(g => g.ReleaseDate)){
+                        <tr>
+                            <td>@g.Title</td>
+                            <td>@g.ReleaseDate.ToString("dd MMM, yyyy")</td>
+                            <td>@g.HoursPlayed</td>
+                            <td>@g.Favorite</td>
+                            <td>
+                                <a asp-page="../Games/Edit" asp-route-id="@g.GameId">Edit</a> |
+                                <a asp-page="../Games/Details" asp-route-id="@g.GameId">Details</a> |
+                                <a asp-page="../Games/Delete" asp-route-id="@g.GameId">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

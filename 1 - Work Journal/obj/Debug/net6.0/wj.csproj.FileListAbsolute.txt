@@ -1,0 +1,34 @@
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\bin\Debug\net6.0\wj.exe
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\bin\Debug\net6.0\wj.deps.json
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\bin\Debug\net6.0\wj.runtimeconfig.json
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\bin\Debug\net6.0\wj.dll
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\bin\Debug\net6.0\wj.pdb
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\obj\Debug\net6.0\wj.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\obj\Debug\net6.0\wj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\obj\Debug\net6.0\wj.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\obj\Debug\net6.0\wj.AssemblyInfo.cs
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\obj\Debug\net6.0\wj.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\obj\Debug\net6.0\wj.dll
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\obj\Debug\net6.0\refint\wj.dll
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\obj\Debug\net6.0\wj.pdb
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\obj\Debug\net6.0\wj.genruntimeconfig.cache
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\obj\Debug\net6.0\ref\wj.dll
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\wj\obj\Debug\net6.0\wj.csproj.CopyComplete
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\bin\Debug\net6.0\wj.exe
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\bin\Debug\net6.0\wj.deps.json
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\bin\Debug\net6.0\wj.runtimeconfig.json
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\bin\Debug\net6.0\wj.dll
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\bin\Debug\net6.0\wj.pdb
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\obj\Debug\net6.0\wj.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\obj\Debug\net6.0\wj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\obj\Debug\net6.0\wj.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\obj\Debug\net6.0\wj.AssemblyInfo.cs
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\obj\Debug\net6.0\wj.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\obj\Debug\net6.0\wj.csproj.CopyComplete
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\obj\Debug\net6.0\wj.dll
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\obj\Debug\net6.0\refint\wj.dll
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\obj\Debug\net6.0\wj.pdb
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\obj\Debug\net6.0\wj.genruntimeconfig.cache
+C:\Users\alexa\OneDrive - Canadore College\Year 3\Semester 5\CIS325 - Programming in C#\Classwork\Assignments\Assignment 1\wj\obj\Debug\net6.0\ref\wj.dll

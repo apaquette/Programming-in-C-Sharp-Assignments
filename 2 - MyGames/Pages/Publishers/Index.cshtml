@@ -1,0 +1,48 @@
+@page
+@model MyGames.Pages.Publishers.IndexModel
+
+@{
+    ViewData["Title"] = "Publishers";
+}
+
+<h1>Publishers</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Publisher[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Publisher[0].Country)
+            </th>
+            <th>
+                Founding Year
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Publisher) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FoundingYear)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.PublisherId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.PublisherId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.PublisherId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
